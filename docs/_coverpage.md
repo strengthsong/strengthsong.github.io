@@ -1,1 +1,1 @@
-![coverage](media/coverpage.jpeg)
+![coverage](coverpage.jpeg)
